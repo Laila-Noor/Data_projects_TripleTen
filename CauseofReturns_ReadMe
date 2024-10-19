@@ -1,5 +1,7 @@
 #**Superstore_TheCasueOfReturns**
-## Insights on trending high return rates for Superstore amongst order date, category, sub-category, state, customer name, product name, and returns. Focuses on Total Sales & Total returns based on category and sub-category, return rates over time, based on category, return rates based on state with the ability to filter order date and sub-category, identifying their relationships/correlations, and finally strategic recommendations based on data-driven facts.
+## Insights on trending high return rates for Superstore amongst order date, category, sub-category, state, customer name, product name, and returns. 
+Focuses on Total Sales & Total returns based on category and sub-category, return rates over time, based on category, return rates based on state with the 
+ability to filter order date and sub-category, identifying their relationships/correlations, and finally strategic recommendations based on data-driven facts.
  
 ### **Tableau public link**
 -https://public.tableau.com/views/TheCauseofReturns/TotalSalesTotalReturns?:language=en-US&:sid=8605CDB84174424F82B5580CC13E94FD-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
