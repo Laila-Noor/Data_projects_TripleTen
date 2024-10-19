@@ -1,0 +1,28 @@
+#**Superstore_TheCasueOfReturns**
+## Insights on trending high return rates for Superstore amongst order date, category, sub-category, state, customer name, product name, and returns. Focuses on Total Sales & Total returns based on category and sub-category, return rates over time, based on category, return rates based on state with the ability to filter order date and sub-category, identifying their relationships/correlations, and finally strategic recommendations based on data-driven facts.
+ 
+### **Tableau public link**
+-https://public.tableau.com/views/TheCauseofReturns/TotalSalesTotalReturns?:language=en-US&:sid=8605CDB84174424F82B5580CC13E94FD-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+#### **Files included**
+-Total Sales & Total Returns Worksheet
+-Return Rate by Product Category Worksheet
+-Return Rate by Customer Worksheet
+-Return Rate by State Worksheet
+-Return Rate by Time Worksheet
+-Return Rate by Time & Category Worksheet
+-Mock-up Dashboard
+-Container Dashboard
+-Monitoring Returns Dashboard
+-Evaluating Return Metrics Dashboard- Hidden
+-Understanding Return Rates Dashboard- Hidden
+-Return Rate by State Dashboard-Hidden
+-Identifying Root Causes Dashboard-Hidden
+-Story Draft Story
+-Conclusion Dashboard-Hidden
+-The Cause of Returns Story
+
+
+##### **Presentation link**
+- https://www.loom.com/share/b44424e675a74fd68c46740d2f8b2d57?sid=05b02735-36be-4a44-88b4-0d657168e8a3
